@@ -15,6 +15,6 @@ For continuum restart [sbt-revolver](https://github.com/spray/sbt-revolver)
 
 Run
 ```
-sbt ~run
+sbt ~reStart
 ```
 When you change the code - the application will be restarted immediately.
